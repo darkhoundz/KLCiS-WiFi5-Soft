@@ -7,7 +7,7 @@ With the integration of the KLCiS Voucher System, WiFi5-Soft-operated machines w
 ================= <br>
 I. REQUIREMENTS: <br>
 ================= <br>
-    a. WiFi5 operated machine (LICENSED) | [Jonas Oliveros](https://www.facebook.com/groups/378035929223641/user/1611437717) <br>
+    a. WiFi5 operated machine (LICENSED) | [Jonas Oliveros](https://www.facebook.com/jonas.oliveros.33) <br>
     b. Little knowlege in HTML <br>
     c. Text Editor like Notepad++ <br>
     d. WiFi5-Soft REQUIRED VERSIONS (v3.5.3 and v3.5.4) <br>
