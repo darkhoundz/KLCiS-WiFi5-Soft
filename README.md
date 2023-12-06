@@ -1,8 +1,8 @@
 # KLCiS Voucher System e-payment support for JONAS WiFi5 1ST MULTI WIRELESS WIFI VENDO MACHINE (CENTRALIZED VENDO)
 
-[WiFi5-Soft](https://wifi5-soft.com/) is hailed as one of the most popular WiFi Vendo software for 2023, it's popularity is widely known among WiFi Hotspot / PisoWiFi Facebook Groups. It captured huge clients migrating from the old systems because of its fixed for RANDOM MAC problems as most vendo software faces. It has gained support from various YouTube vloggers like Karl Andrew C. Comboy. <br>
+[WiFi5-Soft](https://wifi5-soft.com/) is celebrated as one of the most popular WiFi vending software for 2023. Its popularity is widely recognized within WiFi Hotspot/PisoWiFi Facebook Groups. It has successfully attracted a large number of clients who have migrated from older systems due to its resolution of RANDOM MAC problems, a common issue faced by most vending software. The software has garnered support from various YouTube vloggers, including Karl Andrew C. Comboy.
 
-With the integration of KLCiS Voucher System, WiFi5-Soft operated machines will be able to accept e-payments (Gcash, PayMaya, GrabPay and ShopeePay) Voucher codes will be automatically generated after a successful payment coupled with SMS notification. <br><br>
+With the integration of the KLCiS Voucher System, WiFi5-Soft-operated machines will now have the capability to accept e-payments, including Gcash, PayMaya, GrabPay, and ShopeePay. Voucher codes will be automatically generated following a successful payment, accompanied by an SMS notification.
 
 ================= <br>
 I. REQUIREMENTS: <br>
