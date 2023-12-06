@@ -1,6 +1,6 @@
 <!-- START OF KLCIS Integration -->
 <div class="col-md mb-5" style="border: 1px solid red; margin: auto; max-width:100%;">
-<img alt="e-wallets logo" src="https://s2.klinternetservices.com/img/banner2.png" style="max-width: 100%; height:auto; margin-top:20px; margin-bottom:10px;">
+<!-- <img alt="e-wallets logo" src="https://s2.klinternetservices.com/img/banner2.png" style="max-width: 100%; height:auto; margin-top:20px; margin-bottom:10px;"> -->
     <form id="paymentForm" action="https://s2.klinternetservices.com/xendit/payment" method="GET">
       <div class="form-group" style="text-align:left;">
         <label for="amountDropdown">Select Promo:</label>
