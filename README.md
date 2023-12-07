@@ -16,6 +16,7 @@ I. REQUIREMENTS: <br>
     b. Little knowlege in HTML <br>
     c. Text Editor like Notepad++ <br>
     d. WiFi5-Soft REQUIRED VERSIONS (v3.5.3 and v3.5.4) <br>
+    e. [KLCiS Voucher System account](https://klinternetservices.com) <br>
     
 ================= <br>
 II. INSTRUCTION: <br>
