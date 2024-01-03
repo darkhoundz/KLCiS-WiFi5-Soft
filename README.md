@@ -64,3 +64,5 @@ For your clients to buy voucher codes using e-payment without load/session, plea
         traefik-public.ap-southeast-1.tidnex.com
         e9816.cj.akamaiedge.net
         104.67.185.229
+        checkout-ui-gateway.xendit.co
+        assets.xendit.co
