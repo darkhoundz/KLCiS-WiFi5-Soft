@@ -15,7 +15,7 @@ I. REQUIREMENTS: <br>
     a. WiFi5 operated machine (LICENSED) | [Jonas Oliveros](https://www.facebook.com/jonas.oliveros.33) <br>
     b. Little knowlege in HTML <br>
     c. Text Editor like Notepad++ <br>
-    d. WiFi5-Soft REQUIRED VERSIONS (v3.5.3 and v3.5.4) <br>
+    d. WiFi5-Soft REQUIRED VERSIONS (v3.5.4 and latest) <br>
     e. [KLCiS Voucher System account](https://klinternetservices.com) <br>
     
 ================= <br>
