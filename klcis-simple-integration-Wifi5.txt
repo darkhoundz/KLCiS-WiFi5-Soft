@@ -15,7 +15,7 @@
           <option value="10">₱10.00 - 5 HOURS UNLIMITED INTERNET</option>
           <option value="20">₱20.00 - 1 DAY UNLIMITED INTERNET</option>
           <option value="100">₱100.00 - 7 DAYS UNLIMITED INTERNET </option>
-		  <option value="500">₱500.00 CREDIT AMOUNT</option>
+	  <option value="500">₱500.00 CREDIT AMOUNT</option>
         </select>
         
       </div>
