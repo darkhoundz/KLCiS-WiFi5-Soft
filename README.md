@@ -30,7 +30,9 @@ II. INSTRUCTION: <br>
 III. WALLED GARDEN HOST <br>
 ================= <br>
 
-For your clients to buy voucher codes using e-payment without load/session, please add these host/ip to the Walled Garden: 
+For your clients to buy voucher codes using e-payment without load/session, please add these host/ip to the Walled Garden:
+
+## Gcash Walled Garden Hosts for (KLCiS Voucehr Stores - v1-v4)
 
         klinternetservices.com
         s2.klinternetservices.com
@@ -64,3 +66,23 @@ For your clients to buy voucher codes using e-payment without load/session, plea
         traefik-public.ap-southeast-1.tidnex.com
         e9816.cj.akamaiedge.net
         104.67.185.229
+        ewallet-service-live.xendit.com
+
+## Paymaya Walled Garden Hosts for (KLCiS Voucehr Stores - v1-v4)
+
+        api.mayabank.ph
+        api.paymaya.com
+        api-bnpl.mayabank.ph
+        assets.paymaya.com
+        cdnjs.cloudflare.com
+        comms-client-api-production.voyagerapis.com
+        ewallet-service-live.xendit.co
+        fonts.gstatic.com
+        glimpse.voyagerapis.com
+        klinternetservices.com
+        n6sgyu-inapps.appsflyersdk.com
+        n6sgyu-launches.appsflyersdk.com
+        payments.maya.ph
+        s2.klinternetservices.com
+        sg1.clevertap-prod.com
+        updater.voyagerinnovation.com
