@@ -1,5 +1,6 @@
 <!-- START OF KLCIS Integration -->
-<div class="col-md mb-5" style="border: 1px solid red; margin: auto; max-width:100%;">
+<div class="col-md mb-5" style="border: 2px solid red; margin: auto; width:100%;">
+<p style="font-size: 16px; margin-top: 15px; font-weight: 800;">BUY VOUCHER CODE USING GCASH | PAYMAYA</p>
     <form id="paymentForm" action="https://s2.klinternetservices.com/xendit/payment" method="GET">
       <div class="form-group" style="text-align:left; margin-top: 10px;">
         <label for="amountDropdown">Select Promo:</label>
@@ -14,7 +15,7 @@
           <option value="10">₱10.00 - 5 HOURS UNLIMITED INTERNET</option>
           <option value="20">₱20.00 - 1 DAY UNLIMITED INTERNET</option>
           <option value="100">₱100.00 - 7 DAYS UNLIMITED INTERNET </option>
-		  <option value="500">₱500.00 CREDIT AMOUNT</option>
+	  <option value="500">₱500.00 CREDIT AMOUNT</option>
         </select>
         
       </div>
@@ -26,7 +27,7 @@
 
       <div class="form-group" style="text-align:left;">
         <label for="numberInput">Mobile Number:</label>
-        <input type="number" class="form-control text-center" style="font-size:20px;" id="numberInput" placeholder="e.g. 09912346789" name="number" required>
+        <input type="tel" class="form-control text-center" style="font-size:20px;" id="numberInput" placeholder="e.g. 09912346789" name="number" required>
       </div>
 
       <button type="submit" class="btn btn-success btn-block" style="margin-bottom: 20px;">BUY NOW</button>
