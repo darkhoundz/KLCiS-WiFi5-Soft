@@ -1,4 +1,3 @@
-======= GCASH ONLY ========
 klinternetservices.com
 s2.klinternetservices.com
 payments.gcash.com
@@ -12,7 +11,6 @@ customer-segment-api.mynt.xyz
 gw.alipayobjects.com
 mdap.paas.mynt.xyz
 mgs-gw.paas.mynt.xyz
-cdnjs.cloudflare.com
 checkout.xendit.co
 45.60.160.35
 110.75.232.97
@@ -26,26 +24,11 @@ checkout.xendit.co
 checkout-ui-gateway.xendit.co
 assets.xendit.co
 ewallet-service-live.xendit.co
-
-======= PAYMAYA ONLY ========
-NOTE: If nadagdag po ninyo ang Gcash Only na Pre-Auth, wag na po ninyo idagdag ung ibang domain dito na same sa Gcash Only para hindi ma duplicate.
-ADDITIONAL NOTE: Gagana lang po ang Maya checkout kung may installed Maya app ang inyong mga client. At dapat sa Google Chrome po sila mag open ng voucher store para bumukas yung app sa checkout.
-
-klinternetservices.com
-s2.klinternetservices.com
-ewallet-service-live.xendit.co
+api.xendit.co
+klcis.cc
 payments.maya.ph
 assets.paymaya.com
-ewallet-service-live.xendit.co
-fonts.gstatic.com
-glimpse.voyagerapis.com
-updater.voyagerinnovation.com
-sg1.clevertap-prod.com
-firebaselogging-pa.googleapis.com
-cdnjs.cloudflare.com
 api.paymaya.com
-n6sgyu-inapps.appsflyersdk.com
-n6sgyu-launches.appsflyersdk.com
-comms-client-api-production.voyagerapis.com
 api.mayabank.ph
 api-bnpl.mayabank.ph
+payments.paymaya.com
